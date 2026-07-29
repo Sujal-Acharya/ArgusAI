@@ -1,8 +1,6 @@
 # Software Architecture
 
-# Argus AI
-
-## Tagline
+# ArgusAI
 
 **An AI Operating System for Knowledge Work**
 
