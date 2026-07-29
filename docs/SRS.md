@@ -1,8 +1,7 @@
 # Software Requirements Specification (SRS)
 
-# Argus AI
+# ArgusAI
 
-## Tagline
 
 **An AI Operating System for Knowledge Work**
 
