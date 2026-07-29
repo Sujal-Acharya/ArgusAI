@@ -1,8 +1,6 @@
 # Database Design
 
-# Argus AI
-
-## Tagline
+# ArgusAI
 
 **An AI Operating System for Knowledge Work**
 
