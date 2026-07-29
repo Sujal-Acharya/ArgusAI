@@ -1,8 +1,7 @@
 # Product Requirements Document (PRD)
 
-# Argus AI
+# ArgusAI
 
-## Tagline
 
 **An AI Operating System for Knowledge Work**
 
