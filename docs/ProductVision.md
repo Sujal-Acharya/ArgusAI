@@ -1,4 +1,4 @@
-# Argus AI
+# ArgusAI
 
 ## Tagline
 
