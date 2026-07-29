@@ -1,6 +1,5 @@
 # ArgusAI
 
-## Tagline
 
 An AI Operating System for Financial Research
 
