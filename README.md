@@ -216,4 +216,3 @@ Building production-grade AI systems with modern software engineering practices.
 
 ---
 
-> **Argus AI is being developed as a portfolio-quality software engineering project with a focus on scalable architecture, clean code, modular AI design, and enterprise development practices.**
